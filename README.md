@@ -1,14 +1,13 @@
 💰 Intelligent Money Manager
 AI-Driven Expense Automation with Privacy
 
-📌 Overview
-
 Personal finance management plays a crucial role in achieving financial stability and long-term goals. However, traditional expense tracking methods are often time-consuming and prone to human error.
 
 Intelligent Money Manager is an AI-powered mobile application designed to streamline expense tracking and enhance financial planning. It enables users to record expenses effortlessly through receipt scanning, image uploads, or manual entry. The system intelligently extracts, categorizes, and analyzes financial data to provide a seamless user experience.
 
 By leveraging machine learning techniques, the application analyzes spending patterns and predicts future expenses, helping users make informed budgeting decisions. Additionally, it ensures a high level of data security and privacy through robust encryption and secure authentication mechanisms.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Key Features
 
 🔐 User Authentication & Security
@@ -17,7 +16,7 @@ By leveraging machine learning techniques, the application analyzes spending pat
 - Ensures confidentiality of user data
 - Clean and intuitive UI
   
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 Main Dashboard
 
 The dashboard acts as the central control panel of the application.
@@ -47,7 +46,7 @@ The dashboard acts as the central control panel of the application.
 5. Settings
 
 - Manage user preferences and security
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ➕ Add Transaction
 
 The “+” floating action button enables quick expense entry:
@@ -55,19 +54,19 @@ The “+” floating action button enables quick expense entry:
 - ✍️ Manual entry
 - 📷 Scan receipt (AI-powered OCR)
 - 🖼️ Upload image from gallery
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Data Visualization & Insights
 
 - Interactive pie chart for expense distribution
 - Category-wise spending analysis
 - Displays recent transactions
-  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💸 Budget Management
 
 - Create monthly budgets
 - Visual progress bar (spent vs remaining)
 - Alerts for overspending
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🤖 AI-Powered Receipt Scanning
 
 - Uses Donut OCR Model
@@ -76,20 +75,20 @@ The “+” floating action button enables quick expense entry:
      - Amount
      - Date
 - Editable review screen
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔒 End-to-End Encryption & Privacy
 
 - 32-character encryption key
 - Protected using PIN
 - Ensures complete user data control
-  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 📉 Predictive Analytics
 
 - Uses Linear Regression
 - Learns user spending behavior
 - Predicts future expenses
 - Helps in better financial planning
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ Settings Features
 
 - 👤 Profile – Manage user details
@@ -97,7 +96,7 @@ The “+” floating action button enables quick expense entry:
 - 🔑 Change Password – Secure account access
 - 🔒 Encryption Key – Manage 32-character secure key
 - 🤖 AI Server Configuration – Configure backend AI service
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Tech Stack
 
 - Frontend: Flutter
@@ -106,14 +105,117 @@ The “+” floating action button enables quick expense entry:
 - Authentication: Firebase Auth
 - Machine Learning: Linear Regression
 - OCR Model: Donut Model
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📱 Project Structure
+
 Backend/
+
 Frontend/
+
  ├── lib/
+ 
  ├── pubspec.yaml
+ 
  └── assets/
-  
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📸 App Screenshots
+
+🔐 Signup & Login 
+
+<p>
+  <img width="180"  src="https://github.com/user-attachments/assets/84cb641f-d787-4bc9-a775-337e9fbde0b2" />
+  <img width="180"  src="https://github.com/user-attachments/assets/44ea233c-af24-40d5-8662-463ac1f66377" />
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📊 Dashboard 
+
+<img width="180"  src="https://github.com/user-attachments/assets/b9205968-4b88-40d7-840d-0b7c7353778a" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📄 All Transactions
+
+<img width="180"  src="https://github.com/user-attachments/assets/45ea73b4-8061-44d0-bcfb-3d9b917877bd" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📉 Expense Prediction
+
+<img width="180"  src="https://github.com/user-attachments/assets/ecd144ea-7295-4c3b-9cdf-b2f27ec93135" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+💸 Budget Management
+
+<p>
+  <img width="180"  src="https://github.com/user-attachments/assets/c9e3fcd3-6157-4e81-ac0c-164c168ea03c" />
+  <img width="180"  src="https://github.com/user-attachments/assets/424eb299-2fbe-401d-8638-a63420486022" />
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+➕ Add Transaction
+
+<img width="180"  src="https://github.com/user-attachments/assets/ce62f1c0-621a-4e72-9f7b-0219eebb8fd3" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⚙️ Settings 
+
+<img width="180"  src="https://github.com/user-attachments/assets/378ccb51-49b3-462b-a669-58ab3022fc3a" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔒 Encryption Key 
+
+<img width="180"  src="https://github.com/user-attachments/assets/eeead01a-d043-4412-9992-3477ae01cf81" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🚀 Deployment
+
+📱 Mobile App: APK build
+
+🌐 Backend: Hosted Flask server
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+💡 Key Highlights
+
+- AI-driven expense automation
+- Eliminates manual data entry
+- Real-time financial insights
+- Secure and privacy-focused system
+- Full-stack mobile application
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔧 Setup Instructions
+
+- Clone the repository
+- Run backend server (Flask)
+- Run Flutter application
+- Configure Firebase
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🎯 Future Enhancements
+
+- Advanced ML models for improved prediction accuracy
+- Cloud deployment and scalability
+- Enhanced real-time analytics
+
+
+
+
+
+
+
+
+
 
 
 
