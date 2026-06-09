@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBm8OwLzinJGdZSgfhGREWMhCehC-YrmxE',
-    appId: '1:1005563889129:web:3397aa31db091f457eb778',
-    messagingSenderId: '1005563889129',
-    projectId: 'ai-finance-tracker-6e907',
-    authDomain: 'ai-finance-tracker-6e907.firebaseapp.com',
-    storageBucket: 'ai-finance-tracker-6e907.firebasestorage.app',
-    measurementId: 'G-13BSJEF81N',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAZE8haOV90gdA2bFgk65VQMC-t9JhvD78',
-    appId: '1:1005563889129:android:0970d4e7326581577eb778',
-    messagingSenderId: '1005563889129',
-    projectId: 'ai-finance-tracker-6e907',
-    storageBucket: 'ai-finance-tracker-6e907.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCDfVsOcJPe-Jc1SHdxmdn1A_gQotl-2Qo',
-    appId: '1:1005563889129:ios:d80d531c01efe0e37eb778',
-    messagingSenderId: '1005563889129',
-    projectId: 'ai-finance-tracker-6e907',
-    storageBucket: 'ai-finance-tracker-6e907.firebasestorage.app',
-    iosBundleId: 'com.example.testApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCDfVsOcJPe-Jc1SHdxmdn1A_gQotl-2Qo',
-    appId: '1:1005563889129:ios:d80d531c01efe0e37eb778',
-    messagingSenderId: '1005563889129',
-    projectId: 'ai-finance-tracker-6e907',
-    storageBucket: 'ai-finance-tracker-6e907.firebasestorage.app',
-    iosBundleId: 'com.example.testApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBm8OwLzinJGdZSgfhGREWMhCehC-YrmxE',
-    appId: '1:1005563889129:web:b7d3981ab79c8b757eb778',
-    messagingSenderId: '1005563889129',
-    projectId: 'ai-finance-tracker-6e907',
-    authDomain: 'ai-finance-tracker-6e907.firebaseapp.com',
-    storageBucket: 'ai-finance-tracker-6e907.firebasestorage.app',
-    measurementId: 'G-2W6HX8CZG4',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 }
