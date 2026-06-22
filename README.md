@@ -1,4 +1,4 @@
-💰 Intelligent Money Manager
+## 💰 Intelligent Money Manager
 AI-Driven Expense Automation with Privacy
 
 Personal finance management plays a crucial role in achieving financial stability and long-term goals. However, traditional expense tracking methods are often time-consuming and prone to human error.
@@ -8,7 +8,7 @@ Intelligent Money Manager is an AI-powered mobile application designed to stream
 By leveraging machine learning techniques, the application analyzes spending patterns and predicts future expenses, helping users make informed budgeting decisions. Additionally, it ensures a high level of data security and privacy through robust encryption and secure authentication mechanisms.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🚀 Key Features
+# 🚀 Key Features
 
 🔐 User Authentication & Security
 
@@ -97,7 +97,7 @@ The “+” floating action button enables quick expense entry:
 - 🔒 Encryption Key – Manage 32-character secure key
 - 🤖 AI Server Configuration – Configure backend AI service
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - Frontend: Flutter
 - Backend: Python (Flask)
@@ -106,7 +106,7 @@ The “+” floating action button enables quick expense entry:
 - Machine Learning: Linear Regression
 - OCR Model: Donut Model
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📱 Project Structure
+# 📱 Project Structure
 
 Backend/
 
@@ -119,7 +119,7 @@ Frontend/
  └── assets/
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📸 App Screenshots
+# 📸 App Screenshots
 
 📉 Expense Prediction
 
@@ -142,7 +142,7 @@ Frontend/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🚀 Deployment
+# 🚀 Deployment
 
 📱 Mobile App: APK build
 
@@ -150,7 +150,7 @@ Frontend/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-💡 Key Highlights
+# 💡 Key Highlights
 
 - AI-driven expense automation
 - Eliminates manual data entry
@@ -160,7 +160,7 @@ Frontend/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔧 Setup Instructions
+# 🔧 Setup Instructions
 
 - Clone the repository
 - Run backend server (Flask)
@@ -169,7 +169,7 @@ Frontend/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Future Enhancements
+# 🎯 Future Enhancements
 
 - Advanced ML models for improved prediction accuracy
 - Cloud deployment and scalability
@@ -177,7 +177,7 @@ Frontend/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👩‍💻 Contributors
+# 👩‍💻 Contributors
 
 - Dina P
 - Pavithra R
